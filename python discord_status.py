@@ -13,4 +13,4 @@ async def on_ready():
         status=discord.Status.online
     )
 
-client.run(MTMzNTMyMTY0NzQ4NTI4ODUzMQ.G1wn6M.iPd70ajBCnrEleKwAxi7YQxSH0NnvU4blmz6MY)
+
